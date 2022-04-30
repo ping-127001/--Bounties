@@ -1,1 +1,1 @@
-# --Bounties
+# Bounties
